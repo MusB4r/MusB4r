@@ -1,3 +1,4 @@
+<p align="left"><b><samp>🔴 🟡 🟢</samp></b></p>
 <h1 align="center">Hi 👋, I'm MusB4r</h1>
 <h3 align="center">A passionate developer from Colombia</h3>
 
